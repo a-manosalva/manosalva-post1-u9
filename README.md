@@ -58,11 +58,11 @@ repositorio.
 7. API: POST http://localhost:8080/api/auth/login
 
 ## Capturas de pantalla
-![Formulario de login](../capturas/login.png)
-![Dashboard con th:text seguro](../capturas/dashboard-seguro.png)
-![XSS ejecutado con th:utext (prueba temporal)](../capturas/xss-utext.png)
-![Búsqueda de tareas con @Query parametrizado](../capturas/sql-injection-mitigado.png)
-![CSRF rechazado (403)](../capturas/csrf-403.png)
-![POST /api/auth/login con token recibido](../capturas/jwt-login.png)
-![GET /api/tareas autenticado con Bearer token](../capturas/jwt-aceptado.png)
-![GET /api/tareas sin token (401)](../capturas/jwt-rechazado.png)
+![Formulario de login](capturas/login.png)
+![Dashboard con th:text seguro](capturas/dashboard-seguro.png)
+![XSS ejecutado con th:utext (prueba temporal)](capturas/xss-utext.png)
+![Búsqueda de tareas con @Query parametrizado](capturas/sql-injection-mitigado.png)
+![CSRF rechazado (403)](capturas/csrf-403.png)
+![POST /api/auth/login con token recibido](capturas/jwt-login.png)
+![GET /api/tareas autenticado con Bearer token](capturas/jwt-aceptado.png)
+![GET /api/tareas sin token (401)](capturas/jwt-rechazado.png)
